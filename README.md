@@ -1,2 +1,2 @@
-# PowerBI_dashboard_project
-This is a power bi end to end project
+# Excel-Vrinda Store Data analysis Project
+Vrinda store analysis and Deshboard using Advanced Excel.
